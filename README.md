@@ -1,2 +1,3 @@
 # Eric
-Coding projects
+Simple Python gambling simulator
+
